@@ -17,3 +17,12 @@ height: 300px;
 margin: 30px;
 margin-left: 130px;
 }
+.cabecalho{
+    background-color: rgb(165, 77, 6);
+ display: flex;
+}
+.listacabecalho{
+    display: flex;
+    margin-left: 900px;
+    margin-top: 20px;
+}
